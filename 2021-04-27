@@ -1,0 +1,6 @@
+I'm working on a FOSS game in the browser. Yesterday I finished getting some basic netcode working with websockets, at least locally. Next is to get that working on a remote AWS server (most of that has been done already, since I already made an earlier version work remotely). I need to work on a workflow from local changes to production server, but I'm not sure if I want to involve Docker in this process.
+
+I randomly found this guy on Twitch, https://www.twitch.tv/strager, and he has some github issues for hire, which I thought was interesting: https://quick-lint-js.com/hiring.html
+
+I might try working on it, but I need to spend a few sessions digging into the code on that project first. Seems like an interesting project though.
+
